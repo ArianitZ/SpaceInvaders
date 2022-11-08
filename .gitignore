@@ -1,0 +1,8 @@
+# C++
+.o
+
+# VSCode
+*.vscode/
+
+# Specific to this repo
+space_invaders
